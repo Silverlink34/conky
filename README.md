@@ -1,0 +1,4 @@
+conky
+=====
+
+my conky settings
